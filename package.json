@@ -3,7 +3,7 @@
   "license": "MIT",
   "name": "noble-extended",
   "description": "Noble BLE lib with stop method",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "repository": {
     "type": "git",
     "url": "https://github.com/dragouf/noble.git"
